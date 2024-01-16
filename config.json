@@ -1,0 +1,12 @@
+{
+    "DEPLOYMENT_NAME":"gpt-4",
+    "OPENAI_API_BASE":"https://openai-2c4s-2023-team4.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-07-01-preview",
+    "OPENAI_API_KEY":"b2631c846f2e4f55b592ef8e0f7e9e92",
+
+    "SEARCH_SERVICE_ENDPOINT": "https://search-sydney.search.windows.net",
+    "SEARCH_INDEX_NAME": "vector_index",
+    "SEARCH_ADMIN_KEY": "MvyvZvx7BaXcR3KDH3uxGpcLOTtdGUGbAA0YM6eLC0AzSeAwJo8j",
+
+    "BING_SEARCH_SUBSCRIPTION_KEY": ""
+}
